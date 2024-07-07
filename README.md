@@ -1,4 +1,10 @@
 # CODTECH-Task2
+Namw:Vinay Singh
+Compnay:CODTECH IT SOLUTIONS
+ID:CT4DS3096
+Domain:Data Science
+Duration:June to July 2024
+
 Project Overview: Linear Regression and Cross-Validation
 Objective
 Analyze a synthetic dataset using linear regression and evaluate the model's performance with cross-validation.
